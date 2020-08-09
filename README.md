@@ -1,6 +1,8 @@
 ### ⚡ Label
 
- `区块链`|`以太坊`｜`EOS`｜`DEFI`
+ `比特币`|`以太坊`｜`EOS`｜`DEFI`|`FISCO BCOS`
+ `solidity`|`go`
+
 
 ---
 
